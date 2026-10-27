@@ -8,4 +8,4 @@ int uas = 90;
 double rerata = (tugas + uts + uas) / 3;
 std::cout << "Rata-rata: " << rerata << "\n";
 return 0;
-}
+}   

@@ -1,0 +1,12 @@
+--- Kartu Nilai Mahasiswa ---
+Nama : Siti Aminah
+NPM : 2024010101
+Nilai akhir : 83.975
+Rerata polos: 85.875
+
+Nama       → Siti Aminah
+NPM        → 2024010101
+Kehadiran  → 89.75
+Mingguan   → 80
+UTS        → 85
+UAS        → 88.75
